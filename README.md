@@ -1,5 +1,7 @@
 # [📈 Live Status](https://mygameplatform.github.io/status): <!--live status--> **🟧 Partial outage**
 
+https://mygameplatform.github.io/status/
+
 This repository contains the open-source uptime monitor and status page for [mygameplatform.com](https://mygameplatform.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/mygameplatform/status/workflows/Uptime%20CI/badge.svg)](https://github.com/mygameplatform/status/actions?query=workflow%3A%22Uptime+CI%22)
