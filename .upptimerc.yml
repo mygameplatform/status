@@ -6,13 +6,13 @@ sites:
   - name: Website
     url: https://www.mygameplatform.com
   - name: Wiki
-    url: https://wiki.mygameplatform.com:1010
+    url: https://wiki.mygameplatform.com:1010/
   - name: MyPanel
     url: https://panel.mygameplatform.com
   - name: Game-Node-1
-    url: https://node1.mygameplatform.com:8080
+    url: https://node1.mygameplatform.com:8080/
   - name: Game-Node-2
-    url: https://node2.mygameplatform.com:8080
+    url: https://node2.mygameplatform.com:8080/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
