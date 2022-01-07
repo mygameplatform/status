@@ -22,19 +22,19 @@
     "url": "https://wiki.mygameplatform.com:1010",
     "icon": "https://favicons.githubusercontent.com/wiki.mygameplatform.com",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 810,
-    "timeDay": 854,
-    "timeWeek": 786,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 826,
+    "timeDay": 964,
+    "timeWeek": 831,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2022-01-07": 37
+      "2022-01-07": 43
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://panel.mygameplatform.com",
     "icon": "https://favicons.githubusercontent.com/panel.mygameplatform.com",
     "slug": "my-panel",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 525,
-    "timeDay": 578,
-    "timeWeek": 486,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 527,
+    "timeDay": 577,
+    "timeWeek": 496,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2022-01-07": 30
+      "2022-01-07": 36
     }
   }
 ]
