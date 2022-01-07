@@ -22,10 +22,10 @@
     "url": "https://wiki.mygameplatform.com:1010",
     "icon": "https://favicons.githubusercontent.com/wiki.mygameplatform.com",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 824,
@@ -33,14 +33,16 @@
     "timeWeek": 826,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 1
+    }
   },
   {
     "name": "MyPanel",
     "url": "https://panel.mygameplatform.com",
     "icon": "https://favicons.githubusercontent.com/panel.mygameplatform.com",
     "slug": "my-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 473,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   }
 ]
