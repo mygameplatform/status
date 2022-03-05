@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mygameplatform.com",
     "slug": "website",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "74.80%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.64%",
+    "uptimeDay": "73.39%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.64%",
     "time": 2177,
     "timeDay": 2320,
     "timeWeek": 2228,
     "timeMonth": 2148,
     "timeYear": 2177,
     "dailyMinutesDown": {
-      "2022-03-05": 363
+      "2022-03-05": 383
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/wiki.mygameplatform.com",
     "slug": "wiki",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "40.63%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.09%",
+    "uptimeDay": "39.22%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.09%",
     "time": 823,
     "timeDay": 918,
     "timeWeek": 863,
     "timeMonth": 862,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-03-05": 855,
+      "2022-03-05": 875,
       "2022-01-08": 56,
       "2022-01-07": 36
     }
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/panel.mygameplatform.com",
     "slug": "my-panel",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "40.67%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.15%",
+    "uptimeDay": "39.25%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.15%",
     "time": 534,
     "timeDay": 658,
     "timeWeek": 560,
     "timeMonth": 533,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2022-03-05": 854,
+      "2022-03-05": 875,
       "2022-01-07": 30
     }
   }
