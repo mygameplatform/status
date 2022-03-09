@@ -7,8 +7,12 @@ sites:
     url: https://www.mygameplatform.com
   - name: Wiki
     url: https://wiki.mygameplatform.com:1010
-  - name: MyPanel
+  - name: Panel
     url: https://panel.mygameplatform.com
+  - name: MyPanel BETA
+    url: https://user.mygameplatform.com:7779
+  - name: Login-System
+    url: https://auth.mygameplatform.com:1020/auth
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
