@@ -9,10 +9,14 @@ sites:
     url: https://wiki.mygameplatform.com:1010
   - name: Panel
     url: https://panel.mygameplatform.com
-  - name: MyPanel BETA
-    url: https://user.mygameplatform.com:7779
+#  - name: MyPanel BETA
+#    url: https://user.mygameplatform.com:7779
   - name: Login-System
     url: https://auth.mygameplatform.com:1020/auth
+  - name: Node 1
+    url: https://node1.mygameplatform.com:8080
+  - name: Node 2
+    url: https://node2.mygameplatform.com:8080
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
