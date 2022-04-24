@@ -8,7 +8,7 @@ sites:
   - name: Wiki
     url: https://wiki.mygameplatform.com:1010
   - name: Panel
-    url: https://panel.mygameplatform.com
+    url: https://panel.mygameplatform.com:1005
 #  - name: MyPanel BETA
 #    url: https://user.mygameplatform.com:7779
   - name: Login
