@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "98.89%",
-    "time": 2248,
-    "timeDay": 3762,
-    "timeWeek": 3210,
-    "timeMonth": 3016,
-    "timeYear": 2262,
+    "time": 2250,
+    "timeDay": 3474,
+    "timeWeek": 3288,
+    "timeMonth": 3043,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2023-02-16": 24,
       "2023-02-05": 221,
@@ -35,8 +35,7 @@
       "2022-03-10": 31,
       "2022-03-09": 1146,
       "2022-03-08": 429,
-      "2022-03-06": 232,
-      "2022-03-05": 918
+      "2022-03-06": 232
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mygameplatform.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 856,
-    "timeDay": 927,
-    "timeWeek": 807,
-    "timeMonth": 785,
-    "timeYear": 863,
+    "timeDay": 1089,
+    "timeWeek": 857,
+    "timeMonth": 805,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2023-01-02": 30,
       "2022-04-02": 122,
@@ -63,8 +62,7 @@
       "2022-03-09": 1127,
       "2022-03-08": 1440,
       "2022-03-07": 540,
-      "2022-03-06": 181,
-      "2022-03-05": 1410
+      "2022-03-06": 181
     }
   },
   {
@@ -79,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 761,
-    "timeDay": 980,
-    "timeWeek": 769,
-    "timeMonth": 732,
+    "timeDay": 870,
+    "timeWeek": 802,
+    "timeMonth": 742,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2022-08-12": 21,
