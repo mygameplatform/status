@@ -7,8 +7,6 @@ sites:
     url: https://www.mygameplatform.com
   - name: Wiki
     url: https://wiki.mygameplatform.com:1010
-  - name: Login
-    url: https://auth.mygameplatform.com:1020/auth
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
