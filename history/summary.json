@@ -10,11 +10,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.67%",
-    "time": 2308,
-    "timeDay": 2497,
-    "timeWeek": 2686,
-    "timeMonth": 2928,
-    "timeYear": 2381,
+    "time": 2309,
+    "timeDay": 2534,
+    "timeWeek": 2692,
+    "timeMonth": 2924,
+    "timeYear": 2382,
     "dailyMinutesDown": {
       "2023-04-08": 19,
       "2023-04-02": 29,
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 851,
-    "timeDay": 699,
-    "timeWeek": 698,
-    "timeMonth": 785,
-    "timeYear": 832,
+    "time": 853,
+    "timeDay": 764,
+    "timeWeek": 730,
+    "timeMonth": 794,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2023-01-02": 30
     }
@@ -62,32 +62,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 759,
-    "timeDay": 662,
-    "timeWeek": 650,
-    "timeMonth": 751,
-    "timeYear": 756,
+    "time": 760,
+    "timeDay": 723,
+    "timeWeek": 682,
+    "timeMonth": 759,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2022-08-12": 21,
       "2022-05-23": 27
     }
-  },
-  {
-    "name": "test",
-    "url": "https://fo0.me",
-    "icon": "https://icons.duckduckgo.com/ip3/fo0.me.ico",
-    "slug": "test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 361,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
-    "dailyMinutesDown": {}
   }
 ]
