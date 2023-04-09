@@ -78,18 +78,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fo0.me.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "73.39%",
-    "uptimeDay": "73.39%",
-    "uptimeWeek": "73.39%",
-    "uptimeMonth": "73.39%",
-    "uptimeYear": "73.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 361,
     "timeDay": 361,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2023-04-09": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
