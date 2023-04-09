@@ -10,7 +10,7 @@ sites:
   - name: Login
     url: https://auth.mygameplatform.com:1020/auth
   - name: test
-    url: https://fo0.me:9678
+    url: https://fo0.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
