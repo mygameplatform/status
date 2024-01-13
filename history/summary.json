@@ -38,17 +38,19 @@
     "url": "https://wiki.mygameplatform.com:1010",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mygameplatform.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 910,
-    "timeWeek": 973,
-    "timeMonth": 864,
-    "timeYear": 863,
-    "dailyMinutesDown": {}
+    "time": 861,
+    "timeDay": 714,
+    "timeWeek": 916,
+    "timeMonth": 854,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   }
 ]
