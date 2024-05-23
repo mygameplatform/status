@@ -8,13 +8,13 @@
     "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.53%",
-    "time": 3894,
-    "timeDay": 2841,
-    "timeWeek": 2958,
-    "timeMonth": 5922,
-    "timeYear": 4048,
+    "time": 3895,
+    "timeDay": 2977,
+    "timeWeek": 2978,
+    "timeMonth": 5574,
+    "timeYear": 4046,
     "dailyMinutesDown": {
       "2024-04-26": 40,
       "2024-04-25": 62,
@@ -36,7 +36,7 @@
   },
   {
     "name": "Wiki",
-    "url": "https://wiki.mygameplatform.com:1010",
+    "url": "https://wiki.mygameplatform.com:1011",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mygameplatform.com.ico",
     "slug": "wiki",
     "status": "up",
@@ -46,10 +46,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 840,
-    "timeDay": 604,
-    "timeWeek": 657,
-    "timeMonth": 702,
-    "timeYear": 850,
+    "timeDay": 488,
+    "timeWeek": 622,
+    "timeMonth": 691,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2024-01-13": 29
     }
