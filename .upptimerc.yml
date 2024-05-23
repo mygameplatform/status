@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://www.mygameplatform.com
   - name: Wiki
-    url: https://wiki.mygameplatform.com:1010
+    url: https://wiki.mygameplatform.com:1011
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
