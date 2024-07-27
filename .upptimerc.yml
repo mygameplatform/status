@@ -4,7 +4,7 @@ repo: status # The Name of this repository
 
 sites:
   - name: Website
-    url: https://www.mygameplatform.com
+    url: https://mygameplatform.com
   - name: Wiki
     url: https://wiki.mygameplatform.com:1011
 
