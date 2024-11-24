@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mygameplatform.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.78%",
-    "time": 3435,
-    "timeDay": 1570,
-    "timeWeek": 1281,
-    "timeMonth": 1295,
-    "timeYear": 3521,
+    "time": 3432,
+    "timeDay": 1314,
+    "timeWeek": 1288,
+    "timeMonth": 1299,
+    "timeYear": 3518,
     "dailyMinutesDown": {
       "2024-09-08": 70,
       "2024-07-27": 588,
@@ -45,8 +45,7 @@
       "2023-12-27": 50,
       "2023-12-01": 434,
       "2023-11-30": 3,
-      "2023-11-26": 803,
-      "2023-11-25": 219
+      "2023-11-26": 803
     }
   },
   {
@@ -61,10 +60,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 739,
-    "timeDay": 729,
-    "timeWeek": 561,
-    "timeMonth": 542,
-    "timeYear": 672,
+    "timeDay": 491,
+    "timeWeek": 569,
+    "timeMonth": 541,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2024-06-30": 609,
       "2024-06-29": 493,
