@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mygameplatform.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1731,
-    "timeDay": 1630,
-    "timeWeek": 1720,
-    "timeMonth": 1727,
-    "timeYear": 1372,
+    "time": 1729,
+    "timeDay": 1920,
+    "timeWeek": 1853,
+    "timeMonth": 1730,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2025-04-01": 45,
       "2024-09-08": 70
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 581,
-    "timeDay": 605,
-    "timeWeek": 512,
-    "timeMonth": 576,
-    "timeYear": 570,
+    "timeDay": 428,
+    "timeWeek": 514,
+    "timeMonth": 572,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2025-04-08": 489
     }
