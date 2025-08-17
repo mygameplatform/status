@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1679,
-    "timeDay": 2095,
-    "timeWeek": 1690,
-    "timeMonth": 1754,
-    "timeYear": 1383,
+    "time": 1673,
+    "timeDay": 1079,
+    "timeWeek": 1637,
+    "timeMonth": 1725,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2025-04-01": 45,
       "2024-09-08": 70
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mygameplatform.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 575,
-    "timeDay": 587,
-    "timeWeek": 532,
+    "timeDay": 521,
+    "timeWeek": 548,
     "timeMonth": 568,
-    "timeYear": 568,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2025-04-08": 489
     }
